@@ -1,4 +1,4 @@
-volte# Device tree for Poco X6 5G / Redmi Note 13 5G
+# Device tree for Poco X6 5G / Redmi Note 13 5G
 
 Poco X6 5G / Redmi Note 13 Pro 5G (codenamed _"garnet"_) is a high-end, mid-range smartphone from Xiaomi.
 
