@@ -1,4 +1,4 @@
-volte# Device tree for Poco X6 5G / Redmi Note 13 Pro 5G
+volte# Device tree for Poco X6 5G / Redmi Note 13 5G
 
 Poco X6 5G / Redmi Note 13 Pro 5G (codenamed _"garnet"_) is a high-end, mid-range smartphone from Xiaomi.
 
@@ -8,7 +8,7 @@ It was announced & released in January 2024.
 
 |      Basic | Specification Sheet                                               |
 | ---------: | :---------------------------------------------------------------- |
-|        SoC | Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm)                     |
+|        SoC | Qualcomm SM7435- Snapdragon 7s Gen 2 (4 nm)                     |
 |        CPU | Octa-core (4x2.40 GHz Cortex-A78 & 4x1.95 GHz Cortex-A55)         |
 |        GPU | Adreno 710                                                        |
 |     Memory | 8/12 GB RAM (LPDDR4X)                                             |
